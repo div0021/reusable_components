@@ -21,6 +21,9 @@ export default {
       'UbuntuMono':['Ubuntu Mono', 'monospace'],
       'NotoSans':['Noto Sans', 'sans-serif'],
       'Poppins':['Poppins', 'sans-serif']
+    },
+    screens:{
+      '1.5xl':'1440px'
     }
     },
 

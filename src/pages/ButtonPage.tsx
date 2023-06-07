@@ -5,7 +5,7 @@ type Props = {}
 
 const ButtonPage = (props: Props) => {
   return (
-    <div className='p-5 pl-20 space-y-8'>
+    <div className='p-5 pl-20 space-y-8 h-[110vh] lg:h-[160vh] xl:h-[100vh]'>
         <h1 className="text-4xl  font-bold font-Poppins  text-[#4f4f4f]">Buttons</h1>
         <div className='w-[70%] flex space-x-32 items-center'>
             <div className='space-y-2'>
