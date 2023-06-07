@@ -33,7 +33,6 @@
 
 ![screenshot2](https://github.com/div0021/reusable_components/blob/main/public/Screenshot2.png)
 
-Introduce your projects by taking a screenshot or a gif. 
 
 
 ### Built With
